@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">New Flashlight</string>
+    <string name="turnon">Turn on</string>
+    <string name="mainimage">mainimage</string>
+    <string name="mainbtn" />
+    <string name="turnoff">turn off</string>
+</resources>
